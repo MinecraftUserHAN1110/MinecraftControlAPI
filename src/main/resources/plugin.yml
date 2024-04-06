@@ -1,0 +1,4 @@
+name: MinecraftControlAPI
+version: '${project.version}'
+main: io.github.flawgames.minecraftcontrolapi.MinecraftControlAPI
+api-version: '1.20'
