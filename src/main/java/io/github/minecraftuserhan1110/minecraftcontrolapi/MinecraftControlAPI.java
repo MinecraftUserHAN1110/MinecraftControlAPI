@@ -1,4 +1,4 @@
-package io.github.flawgames.minecraftcontrolapi;
+package io.github.minecraftuserhan1110.minecraftcontrolapi;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
